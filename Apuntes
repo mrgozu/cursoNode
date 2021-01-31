@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------
+
+¿Que es Node?
+
+Lenguaje de Backent
+
+Da acceso al sistema de archivos del equipo
+
+--------------------------------------------------------------------------------
+
+¿Que puedo hacer con Node?
+
+Uso de sockets para una comunicacion real Cliente-Servidor
+
+Manejo de archivos en FileSystem, cargas simultaneas
+
+Servidores locales y remotos con informacion en tiempo real
+
+Conexiones a base de datos
+
+Creacion de servicios Rest 
+
+--------------------------------------------------------------------------------
+
+¿Por qué es tan popular Node?
+
+Entradas y salidas no bloquean el Servidor
+
+Rapido y facil de configurar
+
+Multiples librerias (mas de 470 mil)
+
+Usa en su mayoria JavaScript
+
+--------------------------------------------------------------------------------
+
+¿Qué es blocking y non-blocking I/O?
+
+blocking son instrucciones que bloquean el uso multiple de procesamiento, NO genera distintos hilos
+non-blocking son instrucciones no bloqueantes, es decir, se pueden ejecutar de forma simultanea, NO genera nuevos hilos.
+
+--------------------------------------------------------------------------------
+
+Realizar nuestro primer programa de Node
+
+Comprender como es que Node resuelve los procesos síncronos y asíncronos
+
+Comprender el ciclo de vida de un proceso en Node
+--------------------------------------------------------------------------------
